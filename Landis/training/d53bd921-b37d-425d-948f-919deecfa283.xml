@@ -1,0 +1,1341 @@
+<report>
+  <ID>d53bd921-b37d-425d-948f-919deecfa283</ID>
+  <name>
+    <first_name>Mary</first_name>
+    <last_name>Herrera</last_name>
+  </name>
+  <SSN>426-75-4381</SSN>
+  <address>7358 Reid Mill
+New Rubenfurt, NY 42714</address>
+  <score>1136</score>
+  <tradelines>
+    <tradeline>
+      <type>EDU</type>
+      <last_activity>2002</last_activity>
+      <high_credit>19166</high_credit>
+      <balance>16928</balance>
+      <active>False</active>
+      <status>COLLECTIONS</status>
+      <payments>
+        <payment>
+          <month>1</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>2</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>3</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>4</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>5</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>6</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>7</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>8</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>9</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>10</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>11</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>12</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>13</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>14</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>15</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>16</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>17</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>18</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>19</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>20</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>21</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>22</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>23</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>24</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>25</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>26</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>27</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>28</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>29</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>30</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>31</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>32</month>
+          <status>60 DAYS LATE OR MORE</status>
+        </payment>
+      </payments>
+    </tradeline>
+    <tradeline>
+      <type>AUTO</type>
+      <last_activity>2001</last_activity>
+      <high_credit>3080</high_credit>
+      <balance>0</balance>
+      <active>False</active>
+      <status>PAID</status>
+      <payments>
+        <payment>
+          <month>1</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>2</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>3</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>4</month>
+          <status>30 DAYS LATE</status>
+        </payment>
+        <payment>
+          <month>5</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>6</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>7</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>8</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>9</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>10</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>11</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>12</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>13</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>14</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>15</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>16</month>
+          <status>30 DAYS LATE</status>
+        </payment>
+        <payment>
+          <month>17</month>
+          <status>30 DAYS LATE</status>
+        </payment>
+        <payment>
+          <month>18</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>19</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>20</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>21</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>22</month>
+          <status>ON TIME</status>
+        </payment>
+      </payments>
+    </tradeline>
+    <tradeline>
+      <type>AUTO</type>
+      <last_activity>2014</last_activity>
+      <high_credit>7672</high_credit>
+      <balance>8060</balance>
+      <active>False</active>
+      <status>COLLECTIONS</status>
+      <payments>
+        <payment>
+          <month>1</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>2</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>3</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>4</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>5</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>6</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>7</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>8</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>9</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>10</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>11</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>12</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>13</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>14</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>15</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>16</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>17</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>18</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>19</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>20</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>21</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>22</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>23</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>24</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>25</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>26</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>27</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>28</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>29</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>30</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>31</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>32</month>
+          <status>60 DAYS LATE OR MORE</status>
+        </payment>
+        <payment>
+          <month>33</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>34</month>
+          <status>60 DAYS LATE OR MORE</status>
+        </payment>
+      </payments>
+    </tradeline>
+    <tradeline>
+      <type>REVOLVING</type>
+      <last_activity>2009</last_activity>
+      <high_credit>10088</high_credit>
+      <balance>0</balance>
+      <active>False</active>
+      <status>PAID</status>
+      <payments>
+        <payment>
+          <month>1</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>2</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>3</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>4</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>5</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>6</month>
+          <status>ON TIME</status>
+        </payment>
+      </payments>
+    </tradeline>
+    <tradeline>
+      <type>AUTO</type>
+      <last_activity>2012</last_activity>
+      <high_credit>14375</high_credit>
+      <balance>0</balance>
+      <active>False</active>
+      <status>PAID</status>
+      <payments>
+        <payment>
+          <month>1</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>2</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>3</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>4</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>5</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>6</month>
+          <status>30 DAYS LATE</status>
+        </payment>
+        <payment>
+          <month>7</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>8</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>9</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>10</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>11</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>12</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>13</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>14</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>15</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>16</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>17</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>18</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>19</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>20</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>21</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>22</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>23</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>24</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>25</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>26</month>
+          <status>30 DAYS LATE</status>
+        </payment>
+        <payment>
+          <month>27</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>28</month>
+          <status>ON TIME</status>
+        </payment>
+      </payments>
+    </tradeline>
+    <tradeline>
+      <type>AUTO</type>
+      <last_activity>2016</last_activity>
+      <high_credit>6954</high_credit>
+      <balance>0</balance>
+      <active>False</active>
+      <status>PAID</status>
+      <payments>
+        <payment>
+          <month>1</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>2</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>3</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>4</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>5</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>6</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>7</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>8</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>9</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>10</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>11</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>12</month>
+          <status>30 DAYS LATE</status>
+        </payment>
+        <payment>
+          <month>13</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>14</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>15</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>16</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>17</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>18</month>
+          <status>60 DAYS LATE OR MORE</status>
+        </payment>
+        <payment>
+          <month>19</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>20</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>21</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>22</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>23</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>24</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>25</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>26</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>27</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>28</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>29</month>
+          <status>ON TIME</status>
+        </payment>
+      </payments>
+    </tradeline>
+    <tradeline>
+      <type>EDU</type>
+      <last_activity>2020</last_activity>
+      <high_credit>8994</high_credit>
+      <balance>7235</balance>
+      <active>True</active>
+      <status>CURRENT</status>
+      <payments>
+        <payment>
+          <month>1</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>2</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>3</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>4</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>5</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>6</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>7</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>8</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>9</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>10</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>11</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>12</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>13</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>14</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>15</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>16</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>17</month>
+          <status>30 DAYS LATE</status>
+        </payment>
+        <payment>
+          <month>18</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>19</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>20</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>21</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>22</month>
+          <status>60 DAYS LATE OR MORE</status>
+        </payment>
+        <payment>
+          <month>23</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>24</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>25</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>26</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>27</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>28</month>
+          <status>ON TIME</status>
+        </payment>
+      </payments>
+    </tradeline>
+    <tradeline>
+      <type>REVOLVING</type>
+      <last_activity>2020</last_activity>
+      <high_credit>12880</high_credit>
+      <balance>8510</balance>
+      <active>True</active>
+      <status>CURRENT</status>
+      <payments>
+        <payment>
+          <month>1</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>2</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>3</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>4</month>
+          <status>60 DAYS LATE OR MORE</status>
+        </payment>
+        <payment>
+          <month>5</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>6</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>7</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>8</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>9</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>10</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>11</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>12</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>13</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>14</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>15</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>16</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>17</month>
+          <status>30 DAYS LATE</status>
+        </payment>
+        <payment>
+          <month>18</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>19</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>20</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>21</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>22</month>
+          <status>30 DAYS LATE</status>
+        </payment>
+        <payment>
+          <month>23</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>24</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>25</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>26</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>27</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>28</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>29</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>30</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>31</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>32</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>33</month>
+          <status>ON TIME</status>
+        </payment>
+      </payments>
+    </tradeline>
+    <tradeline>
+      <type>AUTO</type>
+      <last_activity>2020</last_activity>
+      <high_credit>15201</high_credit>
+      <balance>17316</balance>
+      <active>True</active>
+      <status>CURRENT</status>
+      <payments>
+        <payment>
+          <month>1</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>2</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>3</month>
+          <status>60 DAYS LATE OR MORE</status>
+        </payment>
+        <payment>
+          <month>4</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>5</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>6</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>7</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>8</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>9</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>10</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>11</month>
+          <status>ON TIME</status>
+        </payment>
+      </payments>
+    </tradeline>
+    <tradeline>
+      <type>EDU</type>
+      <last_activity>2020</last_activity>
+      <high_credit>2078</high_credit>
+      <balance>2239</balance>
+      <active>True</active>
+      <status>CURRENT</status>
+      <payments>
+        <payment>
+          <month>1</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>2</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>3</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>4</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>5</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>6</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>7</month>
+          <status>60 DAYS LATE OR MORE</status>
+        </payment>
+        <payment>
+          <month>8</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>9</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>10</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>11</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>12</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>13</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>14</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>15</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>16</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>17</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>18</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>19</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>20</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>21</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>22</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>23</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>24</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>25</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>26</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>27</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>28</month>
+          <status>ON TIME</status>
+        </payment>
+      </payments>
+    </tradeline>
+    <tradeline>
+      <type>AUTO</type>
+      <last_activity>2020</last_activity>
+      <high_credit>16670</high_credit>
+      <balance>16421</balance>
+      <active>True</active>
+      <status>CURRENT</status>
+      <payments>
+        <payment>
+          <month>1</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>2</month>
+          <status>60 DAYS LATE OR MORE</status>
+        </payment>
+        <payment>
+          <month>3</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>4</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>5</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>6</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>7</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>8</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>9</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>10</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>11</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>12</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>13</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>14</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>15</month>
+          <status>30 DAYS LATE</status>
+        </payment>
+        <payment>
+          <month>16</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>17</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>18</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>19</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>20</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>21</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>22</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>23</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>24</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>25</month>
+          <status>ON TIME</status>
+        </payment>
+      </payments>
+    </tradeline>
+    <tradeline>
+      <type>EDU</type>
+      <last_activity>2020</last_activity>
+      <high_credit>4255</high_credit>
+      <balance>3189</balance>
+      <active>True</active>
+      <status>CURRENT</status>
+      <payments>
+        <payment>
+          <month>1</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>2</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>3</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>4</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>5</month>
+          <status>60 DAYS LATE OR MORE</status>
+        </payment>
+        <payment>
+          <month>6</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>7</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>8</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>9</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>10</month>
+          <status>30 DAYS LATE</status>
+        </payment>
+        <payment>
+          <month>11</month>
+          <status>60 DAYS LATE OR MORE</status>
+        </payment>
+        <payment>
+          <month>12</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>13</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>14</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>15</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>16</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>17</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>18</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>19</month>
+          <status>60 DAYS LATE OR MORE</status>
+        </payment>
+        <payment>
+          <month>20</month>
+          <status>30 DAYS LATE</status>
+        </payment>
+        <payment>
+          <month>21</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>22</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>23</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>24</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>25</month>
+          <status>ON TIME</status>
+        </payment>
+        <payment>
+          <month>26</month>
+          <status>ON TIME</status>
+        </payment>
+      </payments>
+    </tradeline>
+  </tradelines>
+</report>

@@ -1,0 +1,97 @@
+---
+title: "MGH Assignment"
+author: "Zihan Ye"
+date: "10/30/2020"
+output: pdf_document
+---
+# Analysis
+
+Please see attached R script for code.
+
+```{r, include = FALSE}
+library(dplyr)
+library(lme4)
+data <- read.csv('./trialdata.csv')
+baseline <- data[data$month == 0,]
+```
+
+```{r, include = FALSE}
+## general summary of data at baseline
+print(str(baseline))
+```
+
+```{r, include = FALSE}
+## number of time points per participant
+data %>% count(id, name = "timepoint") %>% count(timepoint)
+```
+
+```{r, include = FALSE}
+## mean and sd of the maximum number of months each individual has had in the study
+max_month <-  data %>% group_by(id) %>% summarise(month = max(month))
+print(paste0("Mean maximum months: ", mean(max_month$month)))
+print(paste0("SD of maximum months: ", sd(max_month$month)))
+```
+
+```{r, include = FALSE}
+## comparison of the memory score by group at baseline
+t.test(memory~group, data=baseline)
+```
+```{r, include = FALSE}
+## comparison of the memory score by group and sex at baseline
+## split the dataset by gender and see if there's a significant difference between two groups by gender
+baseline_male <-  baseline[baseline$female == 0, ]
+baseline_female <-  baseline[baseline$female == 1, ]
+t.test(memory~group, data=baseline_male)
+t.test(memory~group, data=baseline_female)
+```
+
+
+```{r, include = FALSE}
+## effect of group on ADAS11 scores at baseline after adjusting for age and sex
+mod <- lm(ADAS11~group+age+female, data=baseline)
+summary(mod)
+```
+
+```{r, include = FALSE}
+## influence of group on ADAS11 scores over time after adjusting for age and sex over time
+mixed_mod <- lmer(ADAS11 ~ group + age + female + (1|month), data = data)
+summary(mixed_mod)
+```
+
+# Interpretation
+It appears that there are no statistically significant difference in memory scores between the treatment ("active") and control ("placebo") groups, regardless of whether or not we account for sex. However, there is a statistically significant difference ADAS11 scores between the two groups if we adjust for age and sex and inclyude time as a random effect.
+
+
+# Visualization
+
+## Spaghetti Plot
+```{r, echo = FALSE}
+## spaghetti plot of ADAS11 scores per participant over time 
+library(ggplot2)
+p <- ggplot(data = data, aes(x = month, y = ADAS11, group = id)) + geom_line() + geom_point()
+p + ggtitle("ADAS11 Scores Over Time") + xlab("Month") + ylab("ADAS11 Score") + theme(plot.title = element_text(hjust = 0.5))
+```
+
+## Box Plot
+```{r, echo = FALSE}
+## box plot of baseline ADAS11 scores by group 
+p <- ggplot(baseline, aes(x=group, y=ADAS11)) + geom_boxplot()
+p + ggtitle("Distribution of ADAS11 Scores by Group") + xlab("Month") + ylab("ADAS11 Score") + 
+  theme(plot.title = element_text(hjust = 0.5))
+```
+
+## Fixed Effect Plot
+```{r, echo = FALSE, message = FALSE}
+## fixed effect of group on the predicted values of ADAS11 over time
+library(sjPlot)
+plot_model(mixed_mod, terms = c("groupplacebo"), show.values = TRUE)
+```
+
+## Checking Model Assumptions (Homoskedasticity, Normality of Errors)
+```{r, echo = FALSE}
+## check for homoskedasticity and normality of errors
+plot(mixed_mod)
+qqnorm(resid(mixed_mod))
+qqline(resid(mixed_mod))
+```
+
